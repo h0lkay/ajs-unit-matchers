@@ -1,0 +1,2 @@
+# Домашнее задание к лекции «Unit-тестирование» Matchers
+[![Build status](https://ci.appveyor.com/api/projects/status/w91l6uik79uiswvh?svg=true)](https://ci.appveyor.com/project/h0lkay/ajs-unit-matchers)
